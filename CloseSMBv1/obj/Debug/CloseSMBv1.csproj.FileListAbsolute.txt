@@ -4,3 +4,4 @@ c:\users\dagamboape\documents\visual studio 2015\Projects\CloseSMBv1\CloseSMBv1\
 c:\users\dagamboape\documents\visual studio 2015\Projects\CloseSMBv1\CloseSMBv1\obj\Debug\CloseSMBv1.exe
 c:\users\dagamboape\documents\visual studio 2015\Projects\CloseSMBv1\CloseSMBv1\obj\Debug\CloseSMBv1.pdb
 C:\Users\dagamboape\Documents\Visual Studio 2015\Projects\CloseSMBv1\CloseSMBv1\bin\Debug\System.Management.Automation.dll
+C:\Users\dagamboape\Documents\Visual Studio 2015\Projects\CloseSMBv1\CloseSMBv1\obj\Debug\CloseSMBv1.csprojResolveAssemblyReference.cache

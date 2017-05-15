@@ -19,6 +19,9 @@ namespace CloseSMBv1
             {
                 // use "AddScript" to add the contents of a script file to the end of the execution pipeline.
                 // use "AddCommand" to add individual commands/cmdlets to the end of the execution pipeline.
+
+                Console.WriteLine("Diseñado por @skyg4mb");
+                
                 PowerShellInstance.AddScript("Set-ItemProperty -Path 'HKLM:\\SYSTEM\\CurrentControlSet\\Services\\LanmanServer\\Parameters' SMB1 -Type DWORD -Value 0 -Force");
 
                 // use "AddParameter" to add a single parameter to the last command/script on the pipeline.
