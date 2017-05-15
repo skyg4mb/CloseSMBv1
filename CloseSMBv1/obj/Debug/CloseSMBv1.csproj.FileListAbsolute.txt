@@ -1,0 +1,6 @@
+c:\users\dagamboape\documents\visual studio 2015\Projects\CloseSMBv1\CloseSMBv1\bin\Debug\CloseSMBv1.exe.config
+c:\users\dagamboape\documents\visual studio 2015\Projects\CloseSMBv1\CloseSMBv1\bin\Debug\CloseSMBv1.exe
+c:\users\dagamboape\documents\visual studio 2015\Projects\CloseSMBv1\CloseSMBv1\bin\Debug\CloseSMBv1.pdb
+c:\users\dagamboape\documents\visual studio 2015\Projects\CloseSMBv1\CloseSMBv1\obj\Debug\CloseSMBv1.exe
+c:\users\dagamboape\documents\visual studio 2015\Projects\CloseSMBv1\CloseSMBv1\obj\Debug\CloseSMBv1.pdb
+C:\Users\dagamboape\Documents\Visual Studio 2015\Projects\CloseSMBv1\CloseSMBv1\bin\Debug\System.Management.Automation.dll
